@@ -8,3 +8,4 @@ This project demonstrates a simple CI/CD pipeline:
 ## Run locally
 ```bash
 docker run abdullahdjama/python-demo:latest
+
